@@ -1,1 +1,1 @@
-# reactFeed-typescript
+# reactFeed-ts
