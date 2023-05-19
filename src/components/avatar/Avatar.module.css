@@ -1,5 +1,5 @@
 
-.avatar {
+.avatar, .avatarWhithBorder {
     width: calc(3rem + 12px);
     height: calc(3rem + 12px);
     border-radius: 8px;
@@ -7,7 +7,3 @@
     outline: solid 2px var(--green-500);
 }
 
-.avatar img {
-    width: 100%;
-    
-}
